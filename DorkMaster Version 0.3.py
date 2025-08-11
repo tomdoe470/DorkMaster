@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------
-# Osint-all-in-one.py - VERSIÓN COMPLETAMENTE CORREGIDA
-# Por: Claude (basado en el script original)
-# Fecha de revisión: 2024-08-11
+# DorkMaster.py - VERSIÓN 0.3
+# Por: TomDoe (basado en el script original)
+# Fecha de revisión: 2025-08-11
 # -------------------------------------------------------------------
 
 import tkinter as tk
